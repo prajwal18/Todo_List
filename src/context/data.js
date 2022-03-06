@@ -2,7 +2,7 @@ const data = [
     {
         id: 1,
         title: 'book flights',
-        checked: false
+        checked: true
     },
     {
         id: 2,
@@ -22,7 +22,7 @@ const data = [
     {
         id: 5,
         title: 'exercise a little',
-        checked: false
+        checked: true
     },
     {
         id: 6,
